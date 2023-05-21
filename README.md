@@ -1,7 +1,6 @@
 ### Olá, sou o Rafael Conceição👋
 
 
-**RafaelConceicao-Dev/RafaelConceicao-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 Atualmente esto aprendendo python, HTML5 e CSS3
 - 👯 Estou colaborando no desenvolvimento de um jogo da velha na linguangem python/pygame.
